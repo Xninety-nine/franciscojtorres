@@ -21,7 +21,7 @@
 
 ### Bachelor of Science, Major: Psychology, Minor: Philosophy
 
-- Coursework : Elementary Statistics | Methods, Statistics and Applications | Introduction to  Logic 
+- Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
 ## Projects
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
