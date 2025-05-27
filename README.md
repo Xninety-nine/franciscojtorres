@@ -4,22 +4,22 @@
 
 ## Education
 
-** Springboard Data Science Career Track:**
+### Springboard Data Science Career Track:
 
 - Completed  a 600 hours intensive program with one-on-one mentoring from industry data scientists.
 - Topics: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
 
-**Data Analysis with Python Certification, FreeCodeCamp.org**
+### Data Analysis with Python Certification, FreeCodeCamp.org
 
 - 6 month developer course covering advanced data analysis concepts in Python
 - Topics: Data Cleaning, Manipulation, Mining, Visualization, Data Processing in Python
 
-**Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 July 2023**
+### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 July 2023
 
 - Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
 - Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends.
 
-**Bachelor of Science, Major: Psychology, Minor: Philosophy**
+### Bachelor of Science, Major: Psychology, Minor: Philosophy
 
 - Coursework : Elementary Statistics | Methods, Statistics and Applications | Introduction to  Logic 
 
@@ -78,7 +78,7 @@ This project showcased my ability to apply predictive modeling, feature analysis
 
 ## Work Experience
 
-**Data Analyst Consultant @ Colacion Fortaleza (_March 2025 - Present_)**
+### Data Analyst Consultant @ Colacion Fortaleza (_March 2025 - Present_)
 
 - Analyze client service data to uncover trends, identify gaps, and recommend improvements to enhance program impact and efficiency.
 - Design and administer surveys to collect feedback from program participants, ensuring alignment with organizational goals and measurable outcomes.
@@ -86,14 +86,14 @@ This project showcased my ability to apply predictive modeling, feature analysis
 - Collaborate with staff to translate findings into actionable strategies that improve service delivery and outreach.
 - Present insights through visualizations and written summaries to support grant applications, stakeholder reports, and internal planning.
 
-**Mathematics Teacher | August 2022 - Present** 
+### Mathematics Teacher | August 2022 - Present 
 
 - Increased student success rate on state exams to 73%, surpassing the Texas state average.
 - Used data-driven assessment methods to improve student math scores in MAP leading to average 8 points increase above national levels.. 
 - Effectively communicated abstract mathematical and analytical concepts to diverse learners. 
 - Collaborated with colleagues to use data insights for curriculum development and intervention.
 
-**Graduation Specialist | August 2016 - July 2020** 
+### Graduation Specialist | August 2016 - July 2020 
 
 - Devised and optimized a student tracking system in Excel, leading to a 12% increase in graduation rate (historic 94% rate).
 - Automated daily reporting by 20%  leading to improved efficiency in intervention of  at-risk students.
