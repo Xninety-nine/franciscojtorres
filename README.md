@@ -17,11 +17,16 @@ Bachelor of Science, Major: Psychology, Minor: Philosophy
 
 ## Projects
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
+![X-ray_AI](https://github.com/user-attachments/assets/e19e1532-a61f-4b41-9dbe-ff9d7b13760c)
+
 • Designed and trained a convolutional neural network (CNN) to classify pneumonia in chest X-ray images.
 • Achieved 85% recall and 86% precision, enabling rapid and reliable diagnostics in healthcare contexts.
 • Simulated real-world workflows through mentor feedback and agile-style iteration.
 
 ### Predicting Student Performance | Python, Scikit-learn, Pandas, Seaborn: 
+![image](https://github.com/user-attachments/assets/2e5f651a-0df2-4489-9bd6-feb98faf1ff4)
+
+
 • Created  regression and classification models to predict student grades and academic failure.
 • Achieved R² = 0.85 for regression model, enabling early interventions
 • Classification model predicted student failure with 60% recall and passing with 88% recall. 
