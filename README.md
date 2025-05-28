@@ -1,4 +1,4 @@
-# Data Analyst 
+# Data Science / Data Analyst 
 
 #### Technical Skills: Python, SQL, AWS
 
