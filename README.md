@@ -24,7 +24,7 @@
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
 # Projects 
-## [Projects Link]([https://github.com/Xninety-nine/Data-Science-Portfolio-])
+## [Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
 ![X-ray_AI](https://github.com/user-attachments/assets/e19e1532-a61f-4b41-9dbe-ff9d7b13760c)
