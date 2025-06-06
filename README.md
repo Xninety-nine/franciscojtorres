@@ -28,7 +28,7 @@
 ### Using Power BI to track KPIs in retail sales store | Excel, Power BI
 ### Overview
 
- ![Overview](https://github.com/Xninety-nine/franciscojtorres/blob/main/assets/Overview_update.png)
+ ![](https://github.com/Xninety-nine/franciscojtorres/blob/main/assets/Overview_update.png)
 
  - Designed dashboard that helps to track sales total by District Managers across different store locations.
  - Dashboard allows user to click on different Distric Managers to see how many units they have sold and in which store locations.
