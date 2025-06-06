@@ -24,6 +24,23 @@
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
 # Projects 
+
+### Using Power BI to track KPIs in retail sales store | Excel, Power BI
+### Overview
+
+ ![Overview](https://github.com/Xninety-nine/franciscojtorres/blob/main/assets/Overview_update.png)
+
+ - Designed dashboard that helps to track sales total by District Managers across different store locations.
+ - Dashboard allows user to click on different Distric Managers to see how many units they have sold and in which store locations.
+
+### Tracking sales across States and Store Locations
+
+![Store Locations and Performance](https://github.com/Xninety-nine/franciscojtorres/blob/main/assets/All_Territory_Sales.png)
+
+- Dashboard includes a tile that allows users to see sales performance by store locations allowing stakeholders to identify high and low performing locations.
+- Build in filter allows user to select one or multiple states to view total sales in those regions. 
+
+
 ## [Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
