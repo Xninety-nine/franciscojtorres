@@ -1,6 +1,6 @@
-# Data Science / Data Analyst 
+# Data Analyst 
 
-#### Technical Skills: Python, SQL, AWS
+## Technical Skills: SQL, Python, Excel, Power BI, Tableau, AWS
 
 ## Education
 
@@ -23,7 +23,7 @@
 
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
-# Projects 
+# Data Analytics Project 
 
 ### Using Power BI to track KPIs in retail sales store | Excel, Power BI
 ### Overview
@@ -32,16 +32,18 @@
 
 
  - Designed dashboard that helps to track sales total by District Managers across different store locations.
- - Dashboard allows user to click on different Distric Managers to see how many units they have sold and in which store locations.
+ - Users can click on individual District Managers to view units sold and performance by store.
 
-### Tracking sales across States and Store Locations
-
-![Store Locations and Performance](https://github.com/Xninety-nine/franciscojtorres/blob/main/assets/All_Territory_Sales.png)
-
-- Dashboard includes a tile that allows users to see sales performance by store locations allowing stakeholders to identify high and low performing locations.
-- Build in filter allows user to select one or multiple states to view total sales in those regions. 
+### Tracking Sales by State and Store Location
+![All Territory Sales](https://raw.githubusercontent.com/Xninety-nine/franciscojtorres/main/assets/All_Territory_Sales.png)
 
 
+- Visualizes sales performance by store location, helping stakeholders identify high- and low-performing areas.
+- Built-in filters allow users to view total sales by one or multiple states for regional analysis.
+
+
+
+# Data Science Projects
 ## [Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
