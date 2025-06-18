@@ -46,6 +46,7 @@
 # Data Science Projects
 ## [Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 
+# Health Projects
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
 ![X-ray_AI](https://github.com/user-attachments/assets/e19e1532-a61f-4b41-9dbe-ff9d7b13760c)
 
@@ -72,6 +73,7 @@ Key Insights:
 - Reducing obesity, limiting alcohol consumption, and avoiding smoking are actionable steps individuals can take to lower their risk of developing lung cancer.
 - Clustering techniques proved useful for grouping individuals based on similar feature patterns, offering an additional method to assess lung cancer risk levels.
 
+# Education Projects 
 ### Predicting Student Performance | Python, Scikit-learn, Pandas, Seaborn: 
 ![image](https://github.com/user-attachments/assets/2e5f651a-0df2-4489-9bd6-feb98faf1ff4)
 
@@ -104,6 +106,70 @@ Suggestions based on the data:
 
 - Schools should prioritize test preparation courses as this is a factor that is with in their control.
 
+# Business Projects
+
+## 💼📈 Customer Churn Prediction Using Machine Learning
+![image](https://github.com/user-attachments/assets/47c1934c-97bf-4d00-8b9c-ccf1ea3794e6)
+
+### According to Harvard Business Review:
+- Increasing customer retention by just 5% can boost profits by 25% to 95%.
+- Cost Efficiency: Acquiring a new customer is estimated to be 5 to 25 times more expensive than retaining an existing one
+- Revenue Growth: Existing customers are more likely to purchase additional products and services, increasing their lifetime value and contributing to higher profits
+- Loyalty and Advocacy: Satisfied, retained customers are more likely to refer others, generating organic growth through word-of-mouth
+
+
+
+---
+
+This project leverages customer data from **Telco**, a telecommunications company, to build a machine learning model that predicts whether a customer is likely to churn. Early identification of high-risk customers allows the company to proactively engage them through tailored retention strategies—reducing churn, increasing customer lifetime value, and improving overall profitability.
+
+---
+
+### Key Steps and Results
+
+**Using Telco’s customer dataset, I was able to:**
+
+* Explore and clean the dataset to prepare it for modeling.
+* Build and evaluate three machine learning models:
+
+  * Logistic Regression
+  * Random Forest Classifier
+  * XGBoost Classifier
+
+**Key insights:**
+
+* **89%** of customers who churned were on a **month-to-month contract**.
+* These month-to-month customers paid around **\$12 more per month** than those who stayed.
+* Customers with **Fiber Optic internet service** were significantly more likely to churn—possibly due to **price dissatisfaction** or **service quality issues**.
+* Most churned customers **did not have Online Security or Tech Support**.
+* Customers who paid via **electronic check** were among the **most likely to churn**.
+
+**Model Performance:**
+
+* The **Random Forest** and **XGBoost models** achieved strong performance.
+* These models can be tuned to identify up to **90% of customers likely to churn**.
+
+---
+
+### Business Recommendations
+
+To reduce customer churn, I recommend:
+
+* **Target high-risk customers on month-to-month contracts** with loyalty incentives.
+* **Investigate dissatisfaction among fiber optic users** to identify pain points.
+* **Create tiered retention offers** based on monthly charges to keep pricing competitive.
+* **Bundle support services** like Online Security and Tech Support to increase stickiness.
+* **Improve onboarding experience** for customers who pay via electronic check.
+* **Deploy predictive machine learning models** to flag at-risk customers early and apply targeted retention strategies before they leave.
+
+---
+
+### Conclusion
+
+This project not only highlights the power of **predictive modeling** in identifying churn risks but also demonstrates how **data-driven insights** can directly inform retention strategy and improve business outcomes.
+
+---
+
 
 ### ☕ Coffee Case Study: Using Data Science & AI to Drive Smarter Business Decisions
 
@@ -122,6 +188,7 @@ Using the company’s customer data, I:
 
 This project showcased my ability to apply predictive modeling, feature analysis, and business-oriented data storytelling to support strategic decision-making.
 
+
 ## Technical Skills 
 
 - Programming: Python, SQL, R
@@ -138,6 +205,7 @@ This project showcased my ability to apply predictive modeling, feature analysis
 - Problem-Solving: Diagnosed and resolved inconsistencies in pneumonia classification model by implementing rigorous data validation techniques, improving the F1-score by 15% to achieve more reliable results. 
 - Critical Thinking: Analyze data objectively to uncover trends and support informed decisions.  
 - Curiosity & Growth Mindset: Continuously learning and staying updated with new tools, techniques and trends in data space.
+
 
 
 ## Work Experience
