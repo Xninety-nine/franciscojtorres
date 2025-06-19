@@ -65,7 +65,9 @@
 - Feature Engineering: Selected and transformed relevant features to enhandce model performance.
 - Implemented machine learning algorithms to predict lung cancer risk levels in patients.
 - Performed model evaluation to assess machine learning models accuracy and reliability using metrics such as (precision, recall and F1 scores).
+
 ---
+
 Key Insights:
 
 - Across all machine learning models, the most influential features in predicting a high lung cancer risk level were obesity, dust allergy, and alcohol use.
@@ -73,7 +75,9 @@ Key Insights:
 - However, the most impactful and predictive features can be mitigated through lifestyle changes.
 - Reducing obesity, limiting alcohol consumption, and avoiding smoking are actionable steps individuals can take to lower their risk of developing lung cancer.
 - Clustering techniques proved useful for grouping individuals based on similar feature patterns, offering an additional method to assess lung cancer risk levels.
+ 
 ---
+
 # Education Projects 
 ### Predicting Student Performance | Python, Scikit-learn, Pandas, Seaborn: 
 ![image](https://github.com/user-attachments/assets/2e5f651a-0df2-4489-9bd6-feb98faf1ff4)
@@ -84,6 +88,7 @@ Key Insights:
 - Classification model predicted student failure with 60% recall and passing with 88% recall. 
 - Worked under guided mentorship and revised solutions based on weekly feedback cycles.
 - Modeled stakeholder-driven outcomes and refined models through mentor collaboration.
+  
 ---
 ### Exploring Factors That Contribute to Student Math Scores Using Statistics and Machine Learning | Python, Pandas, Seaborn, Matplotlib, Scipy, sklearn, Plotly 
 ![image](https://github.com/user-attachments/assets/b23d81ca-5eec-400b-b052-eeed1823978a)
@@ -93,6 +98,7 @@ Key Insights:
 - Performed Statistical tests to determine if differences in math scores between different features was statistically significant (T-test, ANOVA, Welch's ANOVA, Tukey' HSD test)
 - Used data visualization to uncover insights into how different features interact.
 - Implemented machine learning algorithms (Linear Regression, Random Forest Regressorto determine degree to which features contribute to student math scores.
+  
 ---
 Key Insights:
 - Socio-economic status is a big predictor in how students will perform on math tests.
@@ -100,12 +106,14 @@ Key Insights:
 - Test preperation also plays a role although not as much as the previous two features.
 - Gender seems to play a slight role in student math scores.
 - Students who completed a test preparation course outperformed their counter parts regardless of socio-economic status.
+  
 ---
 Suggestions based on the data:
 
 - Policy makers should attempt to aquire funds to provide schools with a high population of students of low socio-economic status with test prepartion courses. Unlike other factors which are out of policy maker control, test preparation course are something that can be implemented and should have a positive effect on student math performance, especially for students who are free/reduced lunch as these are the lowest scoring students.
 
 - Schools should prioritize test preparation courses as this is a factor that is with in their control.
+  
 ---
 # Business Projects
 
