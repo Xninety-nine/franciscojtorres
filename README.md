@@ -54,6 +54,7 @@
 - Designed and trained a convolutional neural network (CNN) to classify pneumonia in chest X-ray images.
 - Achieved 85% recall and 86% precision, enabling rapid and reliable diagnostics in healthcare contexts.
 - Simulated real-world workflows through mentor feedback and agile-style iteration.
+  
 ---
 
 ### Lung Cancer Risk Prediction | Python, Scikit-learn, Pandas, Seaborn, Scipy 
@@ -147,7 +148,7 @@ This project leverages customer data from **Telco**, a telecommunications compan
 
 **Key insights:**
 
-* **89%** of customers who churned were on a month-to-month contract.
+* 89% of customers who churned were on a month-to-month contract.
 * These month-to-month customers paid around $12 more per month** than those who stayed.
 * Customers with Fiber Optic internet service were significantly more likely to churn—possibly due to price dissatisfaction or service quality issues.
 * Most churned customers did not have Online Security or Tech Support.
@@ -197,6 +198,7 @@ Using the company’s customer data, I:
 - Suggested marketing strategies to grow the loyal customer base in high-conversion zones for future opportunities.
 
 - This project showcased my ability to apply predictive modeling, feature analysis, and business-oriented data storytelling to support strategic decision-making.
+
 ---
 
 ## Technical Skills 
