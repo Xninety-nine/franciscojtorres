@@ -14,12 +14,12 @@
 - Completed a 600 hours intensive program with one-on-one mentoring from industry data scientists
 - Skills: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
 
-### Data Analysis with Python Certification, FreeCodeCamp.org
+### Data Analysis with Python Certification, FreeCodeCamp.org | August 2023
 
 - 6 month developer course covering advanced data analysis concepts in Python
 - Topics: Data Cleaning, Manipulation, Mining, Visualization, Data Processing in Python
 
-### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 July 2023
+### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 | July 2023
 
 - Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
 - Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
