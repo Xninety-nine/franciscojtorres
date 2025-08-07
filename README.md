@@ -45,8 +45,7 @@
 
 
 
-# Data Science Projects
-## [Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
+# [Data Science Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 ---
 # Health Projects
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
