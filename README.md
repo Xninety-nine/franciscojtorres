@@ -1,13 +1,18 @@
 # Data Analyst 
 
-## Technical Skills: SQL, Python, Excel, Power BI, Tableau, AWS
+## Technical Skills: Python, SQL, Tableau, Power BI, Excel, AWS
 
-## Education
+## Certifications & Education
 
-### Springboard Data Science Career Track:
+### DataCamp Data Analyst Professional Certification  | July 2025
+- Comprehensive program covering SQL, Python, data manipulation, visualization, and statistical analysis
+- Completed hands-on projects in data cleaning, exploratory analysis, and business intelligence
+- [Data Analyst Certification](https://www.datacamp.com/certificate/DA0024856860853) 
 
-- Completed  a 600 hours intensive program with one-on-one mentoring from industry data scientists.
-- Topics: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
+### Springboard Data Science Career Track with Specialization in Machine Learning | March 2025
+
+- Completed a 600 hours intensive program with one-on-one mentoring from industry data scientists
+- Skills: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
 
 ### Data Analysis with Python Certification, FreeCodeCamp.org
 
@@ -17,10 +22,7 @@
 ### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 July 2023
 
 - Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
-- Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends.
-
-### Bachelor of Science, Major: Psychology, Minor: Philosophy
-
+- Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
 # Data Analytics Project 
@@ -222,7 +224,7 @@ Using the company’s customer data, I:
 
 ## Work Experience
 
-### Data Analyst Consultant @ Colacion Fortaleza (_March 2025 - Present_)
+### Data Analyst Consultant @ Colacion Fortaleza (March 2025 - Present)
 
 - Analyze client service data to uncover trends, identify gaps, and recommend improvements to enhance program impact and efficiency.
 - Design and administer surveys to collect feedback from program participants, ensuring alignment with organizational goals and measurable outcomes.
@@ -232,8 +234,8 @@ Using the company’s customer data, I:
 
 ### Mathematics Teacher | August 2022 - Present 
 
-- Increased student success rate on state exams to 73%, surpassing the Texas state average.
-- Used data-driven assessment methods to improve student math scores in MAP leading to average 8 points increase above national levels.. 
+- Increased student success rate on state exams to 81%, surpassing the Texas state average.
+- Used data-driven assessment methods to improve student math scores in MAP leading to average 8 points increase above national levels.
 - Effectively communicated abstract mathematical and analytical concepts to diverse learners. 
 - Collaborated with colleagues to use data insights for curriculum development and intervention.
 
