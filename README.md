@@ -1,43 +1,20 @@
 # Data Analyst | Program Data Services Specialist | BI & Reporting Automation  
 
-## Technical Skills: Python, SQL, Tableau, Power BI, Excel, AWS
+### Data professional specializing in reporting infrastructure, data validation automation, and KPI development. Experienced in merging multi-source datasets, building executive dashboards, and applying machine learning to real-world problems across government, healthcare, education, and business domains.
+
+## Technical Skills
 - Programming: Python, SQL
 - BI & Visualization: Power BI, Tableau, Excel
+- Data Engineering & Validation: Data Cleaning, Multi-source Merging, QA Automation, KPI Development
+- Machine Learning: Regression, Classification, Clustering, Deep Learning (CNNs)
+- Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost, SciPy
+- Tools: Git, Github, VSCode, Jupyter, Sharepoint
 - Cloud & Storage: AWS, SharePoint
-- Analytics: Data Validation, KPI Development, Automation, Statistical Analysis
 
+# Professional Experience 
 
-## Certifications & Education
+### Program Data Services Specialist | Bexar County | 2025 - Present  
 
-### DataCamp Data Analyst Professional Certification  | July 2025
-- Comprehensive program covering SQL, Python, data manipulation, visualization, and statistical analysis
-- Completed hands-on projects in data cleaning, exploratory analysis, and business intelligence
-- [Data Analyst Certification](https://www.datacamp.com/certificate/DA0024856860853) 
-
-### Springboard Data Science Career Track with Specialization in Machine Learning | March 2025
-
-- Completed a 600 hours intensive program with one-on-one mentoring from industry data scientists
-- Skills: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
-
-### Data Analysis with Python Certification, FreeCodeCamp.org | August 2023
-
-- 6 month developer course covering advanced data analysis concepts in Python
-- Topics: Data Cleaning, Manipulation, Mining, Visualization, Data Processing in Python
-
-### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 | July 2023
-
-- Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
-- Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
-- Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
-
-## Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
-[Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
-- Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
-
-
-# Professional Experience & Analytics Infrastructure 
-
-### Real-World Analytics Experience and Reporting Infrastructure 
 ### Data Validation Automation & Executive Reporting | Python, Excel, SharePoint, Power BI
 
 - Developed Python-based validation scripts to detect duplicates, missing values, inconsistent identifiers, and reporting discrepancies across multi-source program datasets
@@ -48,6 +25,30 @@
 - Built interactive KPI dashboards with drill-down capabilities by program, staff, and reporting period
 - Designed and delivered executive-level performance reports presented to board members of a local government grant funding program
 - Translated complex analytical findings into clear, actionable insights for non-technical stakeholders
+
+
+
+### Data Analyst Consultant @ Colacion Fortaleza | March 2025 - September 2025
+
+- Analyze client service data to uncover trends, identify gaps, and recommend improvements to enhance program impact and efficiency.
+- Design and administer surveys to collect feedback from program participants, ensuring alignment with organizational goals and measurable outcomes.
+- Clean, organize, and interpret response data to identify key themes and inform data-driven decision-making.
+- Collaborate with staff to translate findings into actionable strategies that improve service delivery and outreach.
+- Present insights through visualizations and written summaries to support grant applications, stakeholder reports, and internal planning.
+
+### Mathematics Teacher | August 2022 - August 2025
+
+- Increased student success rate on state exams to 81%, surpassing the Texas state average.
+- Used data-driven assessment methods to improve student math scores in MAP leading to average 8 points increase above national levels.
+- Effectively communicated abstract mathematical and analytical concepts to diverse learners. 
+- Collaborated with colleagues to use data insights for curriculum development and intervention.
+
+### Graduation Specialist | August 2016 - July 2020 
+
+- Devised and optimized a student tracking system in Excel, leading to a 12% increase in graduation rate (historic 94% rate).
+- Automated daily reporting by 20%  leading to improved efficiency in intervention of  at-risk students.
+- Presented insights and recommendations to school leadership leading to actionable decisions that kept passing rate above 85% at all times. 
+
 
 
 # Data Analytics Project 
@@ -225,15 +226,34 @@ Using the company’s customer data, I:
 
 ---
 
-## Technical Skills 
+## Education & Certifications 
 
-- Programming: Python, SQL, R
-- Libraries & Frameworks: Numpy, Pandas, SciPy, Scikit-learn, TensorFlow, Keras, XGBoost, Statsmodels, Matplotlib, Seaborn 
-- Data Analytics: Python (data wrangling, analysis, modeling), SQL (queries, joins, aggregations).
-- Machine Learning: Regression, classification, clustering, deep learning, and time series analysis, model evaluation (confusion matrix, cross-validation, ROC, AUC, R², MAE, RMSE)
-- Data Visualization: Matplotlib, Seaborn, Plotly, Microsoft Excel
-- Tools & Platforms: Git, GitHub,  Jupyter Notebook,Google Colab, VSCode, Databricks, Microsoft Office
-- Cloud & Deployment (In Progress): AWS (Certified Cloud Practitioner)
+### DataCamp Data Analyst Professional Certification  | July 2025
+- Comprehensive program covering SQL, Python, data manipulation, visualization, and statistical analysis
+- Completed hands-on projects in data cleaning, exploratory analysis, and business intelligence
+- [Data Analyst Certification](https://www.datacamp.com/certificate/DA0024856860853) 
+
+### Springboard Data Science Career Track with Specialization in Machine Learning | May 2025 - Febuary 2026
+
+- Completed a 600 hours intensive program with one-on-one mentoring from industry data scientists
+- Skills: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
+
+### Data Analysis with Python Certification, FreeCodeCamp.org | August 2023
+
+- 6 month developer course covering advanced data analysis concepts in Python
+- Topics: Data Cleaning, Manipulation, Mining, Visualization, Data Processing in Python
+
+### Master of Arts (Distinction), Major: Teaching Secondary Mathematics (7-12), GPA: 3.7/4.0 | July 2023
+
+- Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
+- Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
+- Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
+
+## Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
+[Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
+- Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
+
+
 
 ## SOFT SKILLS  
 
@@ -242,29 +262,5 @@ Using the company’s customer data, I:
 - Critical Thinking: Analyze data objectively to uncover trends and support informed decisions.  
 - Curiosity & Growth Mindset: Continuously learning and staying updated with new tools, techniques and trends in data space.
 
-
-
-## Work Experience
-
-### Data Analyst Consultant @ Colacion Fortaleza (March 2025 - Present)
-
-- Analyze client service data to uncover trends, identify gaps, and recommend improvements to enhance program impact and efficiency.
-- Design and administer surveys to collect feedback from program participants, ensuring alignment with organizational goals and measurable outcomes.
-- Clean, organize, and interpret response data to identify key themes and inform data-driven decision-making.
-- Collaborate with staff to translate findings into actionable strategies that improve service delivery and outreach.
-- Present insights through visualizations and written summaries to support grant applications, stakeholder reports, and internal planning.
-
-### Mathematics Teacher | August 2022 - Present 
-
-- Increased student success rate on state exams to 81%, surpassing the Texas state average.
-- Used data-driven assessment methods to improve student math scores in MAP leading to average 8 points increase above national levels.
-- Effectively communicated abstract mathematical and analytical concepts to diverse learners. 
-- Collaborated with colleagues to use data insights for curriculum development and intervention.
-
-### Graduation Specialist | August 2016 - July 2020 
-
-- Devised and optimized a student tracking system in Excel, leading to a 12% increase in graduation rate (historic 94% rate).
-- Automated daily reporting by 20%  leading to improved efficiency in intervention of  at-risk students.
-- Presented insights and recommendations to school leadership leading to actionable decisions that kept passing rate above 85% at all times. 
 
 
