@@ -1,6 +1,6 @@
 # Data Analyst | Program Data Services Specialist | BI & Reporting Automation  
 
-### Data professional specializing in reporting infrastructure, data validation automation, and KPI development. Experienced in merging multi-source datasets, building executive dashboards, and applying machine learning to real-world problems across government, healthcare, education, and business domains.
+Data professional specializing in reporting infrastructure, data validation automation, and KPI development. Experienced in merging multi-source datasets, building executive dashboards, and applying machine learning to real-world problems across government, healthcare, education, and business domains.
 
 ## Technical Skills
 - Programming: Python, SQL
@@ -249,7 +249,7 @@ Using the company’s customer data, I:
 - Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
-## Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
+### Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
 [Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
 - Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
 
