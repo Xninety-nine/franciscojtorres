@@ -1,6 +1,11 @@
-# Data Analyst 
+# Data Analyst | Program Data Services Specialist | BI & Reporting Automation  
 
 ## Technical Skills: Python, SQL, Tableau, Power BI, Excel, AWS
+- Programming: Python, SQL
+- BI & Visualization: Power BI, Tableau, Excel
+- Cloud & Storage: AWS, SharePoint
+- Analytics: Data Validation, KPI Development, Automation, Statistical Analysis
+
 
 ## Certifications & Education
 
@@ -25,8 +30,27 @@
 - Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
 
-# Data Analytics Project 
+## Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
+[Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
+- Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
 
+
+# Professional Experience & Analytics Infrastructure 
+
+### Real-World Analytics Experience and Reporting Infrastructure 
+### Data Validation Automation & Executive Reporting | Python, Excel, SharePoint, Power BI
+
+- Developed Python-based validation scripts to detect duplicates, missing values, inconsistent identifiers, and reporting discrepancies across multi-source program datasets
+- Automated quality assurance checks to improve data integrity and reduce manual audit time
+- Consolidated and standardized data into a centralized master dataset for KPI tracking
+- Published structured datasets to SharePoint to support version control and centralized access
+- Connected SharePoint data to Power BI to enable automated refresh and live reporting
+- Built interactive KPI dashboards with drill-down capabilities by program, staff, and reporting period
+- Designed and delivered executive-level performance reports presented to board members of a local government grant funding program
+- Translated complex analytical findings into clear, actionable insights for non-technical stakeholders
+
+
+# Data Analytics Project 
 ### Using Power BI to track KPIs in retail sales store | Excel, Power BI
 ### Overview
 
@@ -42,7 +66,6 @@
 
 - Visualizes sales performance by store location, helping stakeholders identify high- and low-performing areas.
 - Built-in filters allow users to view total sales by one or multiple states for regional analysis.
-
 
 
 # [Data Science Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
