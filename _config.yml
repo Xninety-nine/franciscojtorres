@@ -1,16 +1,14 @@
 title: Francisco J Torres
 description: Data Analyst | Data Scientist 
-logo: "/assets/profile.jpg" # Change the filename in your assets folder to match this!
+logo: "/assets/profile.jpg" # Make sure to rename your image to profile.jpg!
 
-# Essential for Chirpy
-url: "https://franciscojtorres.github.io" # Replace with your actual GitHub URL
-baseurl: ""
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "air" # Options: air, aqua, contrast, dark, dirt, sunrise
 
-# Theme Settings
-remote_theme: cotes2020/jekyll-theme-chirpy
 google_analytics: G-7NYB90WTT1
 
 plugins:
   - jekyll-remote-theme
+  - jekyll-include-cache
 # https
 #  pages-themes/minimal@v0.2.0
