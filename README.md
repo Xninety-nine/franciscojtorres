@@ -8,8 +8,16 @@ Data professional specializing in reporting infrastructure, data validation auto
 - Data Engineering & Validation: Data Cleaning, Multi-source Merging, QA Automation, KPI Development
 - Machine Learning: Regression, Classification, Clustering, Deep Learning (CNNs)
 - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost, SciPy
-- Tools: Git, Github, VSCode, Jupyter, Sharepoint
-- Cloud & Storage: AWS, SharePoint
+- Tools: Git, GitHub, VSCode, Jupyter
+- Collaboration & Storage: SharePoint
+- Cloud & Storage: AWS
+
+# Impact Highlights
+
+- Automated multi-source reporting infrastructure using Python + Power BI
+- Delivered executive KPI dashboards for government stakeholders
+- Built CNN achieving 85% recall in medical image classification
+- Increased graduation rates by 12% through data-driven tracking system
 
 # Professional Experience 
 
@@ -17,14 +25,14 @@ Data professional specializing in reporting infrastructure, data validation auto
 
 ### Data Validation Automation & Executive Reporting | Python, Excel, SharePoint, Power BI
 
-- Developed Python-based validation scripts to detect duplicates, missing values, inconsistent identifiers, and reporting discrepancies across multi-source program datasets
-- Automated quality assurance checks to improve data integrity and reduce manual audit time
-- Consolidated and standardized data into a centralized master dataset for KPI tracking
-- Published structured datasets to SharePoint to support version control and centralized access
-- Connected SharePoint data to Power BI to enable automated refresh and live reporting
-- Built interactive KPI dashboards with drill-down capabilities by program, staff, and reporting period
-- Designed and delivered executive-level performance reports presented to board members of a local government grant funding program
-- Translated complex analytical findings into clear, actionable insights for non-technical stakeholders
+- Direct data quality assurance across five departments, ensuring analytical integrity for executive-level reporting
+- Provide performance insights and data-driven recommendations to the Executive Director
+- Developed Python-based validation and QA automation workflows to standardize multi-source datasets and improve analytical reliability
+- Engineered centralized KPI datasets to support trend analysis and performance measurement
+- Designed automated Power BI dashboards enabling drill-down performance analysis by program, geography, and time
+- Built ZIP code-level heatmaps analyzing program participation and poverty rates to identify geographic disparities
+- Developed multi-year time-series analysis (2023–2025) to detect expenditure trends, seasonal patterns, and support budget forecasting discussions
+- Translate complex analytical findings into actionable strategic insights for non-technical leadership
 
 
 
@@ -49,17 +57,17 @@ Data professional specializing in reporting infrastructure, data validation auto
 - Automated daily reporting by 20%  leading to improved efficiency in intervention of  at-risk students.
 - Presented insights and recommendations to school leadership leading to actionable decisions that kept passing rate above 85% at all times. 
 
+---
 
-
-# Data Analytics Project 
-### Using Power BI to track KPIs in retail sales store | Excel, Power BI
-### Overview
+# Analytics & BI Projects 
+### Retail KPI Dashboard | Power BI, Excel
 
 ![Dashboard Overview](https://raw.githubusercontent.com/Xninety-nine/franciscojtorres/main/assets/Overview_update.png)
 
+- Designed interactive dashboard tracking sales performance by district and store
+- Implemented drill-down functionality for regional and managerial analysis
+- Enabled state-level filtering for comparative performance evaluation
 
- - Designed dashboard that helps to track sales total by District Managers across different store locations.
- - Users can click on individual District Managers to view units sold and performance by store.
 
 ### Tracking Sales by State and Store Location
 ![All Territory Sales](https://raw.githubusercontent.com/Xninety-nine/franciscojtorres/main/assets/All_Territory_Sales.png)
@@ -69,29 +77,65 @@ Data professional specializing in reporting infrastructure, data validation auto
 - Built-in filters allow users to view total sales by one or multiple states for regional analysis.
 
 
-# [Data Science Projects Link](https://github.com/Xninety-nine/Data-Science-Portfolio-)
+### ☕ Coffee Case Study: Using Data Science & AI to Drive Smarter Business Decisions
+
+![image](https://github.com/user-attachments/assets/43eb2a49-f249-4b48-b869-d8c83bd969d9)
+
+---
+In this project, I helped RR Diner Coffee, a specialty coffee company, make a high-stakes business decision using data science and machine learning. The company was considering a costly deal with a legendary coffee farm in China—Hidden Farm—but needed to understand whether enough loyal customers would actually buy the product.
+
+Using the company’s customer data, I:
+
+- Explored and cleaned the dataset to prepare it for modeling.
+- Built and evaluated decision tree and random forest models to predict whether loyal customers would purchase Hidden Farm coffee.
+- Identified key features driving purchase behavior, including customer proximity to store locations.
+- Found that customers living within 3 miles of a store were significantly more likely to buy, regardless of income level.
+- Recommended against the deal in the current market due to the predicted purchase rate falling below the business threshold (69.65% vs. 70%).
+- Suggested marketing strategies to grow the loyal customer base in high-conversion zones for future opportunities.
+
+- This project showcased my ability to apply predictive modeling, feature analysis, and business-oriented data storytelling to support strategic decision-making.
+
+
+
+### Exploring Factors That Contribute to Student Math Scores Using Statistics and Machine Learning | Python, Pandas, Seaborn, Matplotlib, Scipy, sklearn, Plotly 
+![image](https://github.com/user-attachments/assets/b23d81ca-5eec-400b-b052-eeed1823978a)
+
+---
+- Performed Exploratory Data Analysis on features such as: Socio-economic status,
+- Performed Statistical tests to determine if differences in math scores between different features was statistically significant (T-test, ANOVA, Welch's ANOVA, Tukey' HSD test)
+- Used data visualization to uncover insights into how different features interact.
+- Implemented machine learning algorithms (Linear Regression, Random Forest Regressorto determine degree to which features contribute to student math scores.
+  
+---
+Key Insights:
+- Socio-economic status and parental education strongly predicted performance
+- Hypothesis testing (T-tests, ANOVA) confirmed statistical significance
+- Provided policy-oriented recommendations based on data
+  
+---
+
+# Machine Learning Projects
+
+## [Full Data Science Portfolio (GitHub)](https://github.com/Xninety-nine/Data-Science-Portfolio-)
 ---
 # Health Projects
 ### Predicting Pneumonia in X-ray Images | TensorFlow, Keras, Scikit-learn, Pandas, Seaborn, NumPy
 ![X-ray_AI](https://github.com/user-attachments/assets/e19e1532-a61f-4b41-9dbe-ff9d7b13760c)
 
 ---
-- Designed and trained a convolutional neural network (CNN) to classify pneumonia in chest X-ray images.
-- Achieved 85% recall and 86% precision, enabling rapid and reliable diagnostics in healthcare contexts.
-- Simulated real-world workflows through mentor feedback and agile-style iteration.
-  
+- Built and trained a convolutional neural network to classify chest X-ray images
+- Achieved 85% recall and 86% precision
+- Applied deep learning model tuning and evaluation workflows
 ---
 
 ### Lung Cancer Risk Prediction | Python, Scikit-learn, Pandas, Seaborn, Scipy 
 ![image](https://github.com/user-attachments/assets/e06cbde9-0b6e-4d9b-a057-37667fd26bc9)
 
 ---
-- Cleaned and prepared data for analysis
-- Performed Exploratory Data Analysis to explore relationships between features and used visualization techniques to uncover insights.
-- Feature Engineering: Selected and transformed relevant features to enhandce model performance.
-- Implemented machine learning algorithms to predict lung cancer risk levels in patients.
-- Performed model evaluation to assess machine learning models accuracy and reliability using metrics such as (precision, recall and F1 scores).
-
+- Performed feature engineering and classification modeling
+- Evaluated models using precision, recall, and F1-score
+- Identified key predictive features including obesity and alcohol use
+- Applied clustering to segment high-risk patient groups
 ---
 
 Key Insights:
@@ -104,7 +148,8 @@ Key Insights:
  
 ---
 
-# Education Projects 
+## Education Sector Project
+
 ### Predicting Student Performance | Python, Scikit-learn, Pandas, Seaborn: 
 ![image](https://github.com/user-attachments/assets/2e5f651a-0df2-4489-9bd6-feb98faf1ff4)
 
@@ -115,33 +160,9 @@ Key Insights:
 - Worked under guided mentorship and revised solutions based on weekly feedback cycles.
 - Modeled stakeholder-driven outcomes and refined models through mentor collaboration.
   
----
-### Exploring Factors That Contribute to Student Math Scores Using Statistics and Machine Learning | Python, Pandas, Seaborn, Matplotlib, Scipy, sklearn, Plotly 
-![image](https://github.com/user-attachments/assets/b23d81ca-5eec-400b-b052-eeed1823978a)
-
----
-- Performed Exploratory Data Analysis on features such as: Socio-economic status,
-- Performed Statistical tests to determine if differences in math scores between different features was statistically significant (T-test, ANOVA, Welch's ANOVA, Tukey' HSD test)
-- Used data visualization to uncover insights into how different features interact.
-- Implemented machine learning algorithms (Linear Regression, Random Forest Regressorto determine degree to which features contribute to student math scores.
   
 ---
-Key Insights:
-- Socio-economic status is a big predictor in how students will perform on math tests.
-- Parental level of education is also a very important factor in predicting student math scores.
-- Test preperation also plays a role although not as much as the previous two features.
-- Gender seems to play a slight role in student math scores.
-- Students who completed a test preparation course outperformed their counter parts regardless of socio-economic status.
-  
----
-Suggestions based on the data:
-
-- Policy makers should attempt to aquire funds to provide schools with a high population of students of low socio-economic status with test prepartion courses. Unlike other factors which are out of policy maker control, test preparation course are something that can be implemented and should have a positive effect on student math performance, especially for students who are free/reduced lunch as these are the lowest scoring students.
-
-- Schools should prioritize test preparation courses as this is a factor that is with in their control.
-  
----
-# Business Projects
+## Business Project
 
 ## 💼📈 Customer Churn Prediction Using Machine Learning
 ![image](https://github.com/user-attachments/assets/47c1934c-97bf-4d00-8b9c-ccf1ea3794e6)
@@ -151,7 +172,6 @@ Suggestions based on the data:
 - Cost Efficiency: Acquiring a new customer is estimated to be 5 to 25 times more expensive than retaining an existing one
 - Revenue Growth: Existing customers are more likely to purchase additional products and services, increasing their lifetime value and contributing to higher profits
 - Loyalty and Advocacy: Satisfied, retained customers are more likely to refer others, generating organic growth through word-of-mouth
-
 
 
 ---
@@ -205,38 +225,26 @@ This project not only highlights the power of predictive modeling in identifying
 
 ---
 
-
-### ☕ Coffee Case Study: Using Data Science & AI to Drive Smarter Business Decisions
-
-![image](https://github.com/user-attachments/assets/43eb2a49-f249-4b48-b869-d8c83bd969d9)
-
----
-In this project, I helped RR Diner Coffee, a specialty coffee company, make a high-stakes business decision using data science and machine learning. The company was considering a costly deal with a legendary coffee farm in China—Hidden Farm—but needed to understand whether enough loyal customers would actually buy the product.
-
-Using the company’s customer data, I:
-
-- Explored and cleaned the dataset to prepare it for modeling.
-- Built and evaluated decision tree and random forest models to predict whether loyal customers would purchase Hidden Farm coffee.
-- Identified key features driving purchase behavior, including customer proximity to store locations.
-- Found that customers living within 3 miles of a store were significantly more likely to buy, regardless of income level.
-- Recommended against the deal in the current market due to the predicted purchase rate falling below the business threshold (69.65% vs. 70%).
-- Suggested marketing strategies to grow the loyal customer base in high-conversion zones for future opportunities.
-
-- This project showcased my ability to apply predictive modeling, feature analysis, and business-oriented data storytelling to support strategic decision-making.
-
----
-
 ## Education & Certifications 
+
+### Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
+[Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
+- Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
 
 ### DataCamp Data Analyst Professional Certification  | July 2025
 - Comprehensive program covering SQL, Python, data manipulation, visualization, and statistical analysis
 - Completed hands-on projects in data cleaning, exploratory analysis, and business intelligence
 - [Data Analyst Certification](https://www.datacamp.com/certificate/DA0024856860853) 
 
-### Springboard Data Science Career Track with Specialization in Machine Learning | May 2025 - Febuary 2026
+### Springboard Data Science Career Track with Specialization in Machine Learning | May 2024 - Febuary 2025
 
 - Completed a 600 hours intensive program with one-on-one mentoring from industry data scientists
 - Skills: SQL, Python, Machine Learning, Data Storytelling, Big Data, Predictive Analytics
+
+### Spatial Data Science: The New Frontier in Analytics | Esri | 2025
+- Completed 6-week MOOC focused on spatial data modeling, geoprocessing, and location-based analytics
+- Applied geospatial techniques to analyze regional patterns and support data-driven decision-making
+- Strengthened ability to integrate spatial insights into public-sector reporting and KPI analysis
 
 ### Data Analysis with Python Certification, FreeCodeCamp.org | August 2023
 
@@ -248,11 +256,6 @@ Using the company’s customer data, I:
 - Master's thesis focused on collecting and analyzing data to explore the impact of student attendance on math performance.
 - Conducted statistical analysis using real-world classroom data, applying correlation techniques and data visualization to identify trends
 - Coursework: Elementary Statistics, Methods Statistics and Applications, Introduction to  Logic 
-
-### Linear Algebra for Machine Learning and Data Science - DeepLearning.AI | December 2025
-[Linear Algebra for Machine Learning Certificate](https://www.coursera.org/account/accomplishments/verify/92R5DIK7KNDS)
-- Gained practical understanding of matrix operations, eigenvalues/eigenvectors, vector spaces, and projections — concepts that power dimensionality reduction (PCA), optimization, and neural networks.
-
 
 
 ## SOFT SKILLS  
