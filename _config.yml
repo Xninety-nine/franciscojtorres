@@ -2,8 +2,8 @@ title: Francisco J Torres
 description: Data Analyst | Data Scientist 
 logo: /assets/IMG_8714 (1).jpg # Make sure to rename your image to profile.jpg!
 
-remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "air" # Options: air, aqua, contrast, dark, dirt, sunrise
+remote_theme: pages-themes/minimal@v0.2.0 #mmistakes/minimal-mistakes
+#minimal_mistakes_skin: "air" # Options: air, aqua, contrast, dark, dirt, sunrise
 
 google_analytics: G-7NYB90WTT1
 
