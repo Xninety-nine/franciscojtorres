@@ -5,8 +5,9 @@ Data professional specializing in reporting infrastructure, data validation auto
 ## Technical Skills
 - Programming: Python, SQL
 - BI & Visualization: Power BI, Tableau, Excel
-- Data Engineering & Validation: Data Cleaning, Multi-source Merging, QA Automation, KPI Development
+- Statistical & Predictive Methods: Hypothesis Testing, Regression Analysis, Time-Series Analysis, Forecasting, Model Evaluation (R squared, p-values, Residual Analysis)
 - Machine Learning: Regression, Classification, Clustering, Deep Learning (CNNs)
+- Data Engineering & Validation: Data Cleaning, Multi-source Merging, QA Automation, KPI Development
 - Libraries: Pandas, NumPy, Scikit-learn, TensorFlow, XGBoost, SciPy
 - Tools: Git, GitHub, VSCode, Jupyter
 - Collaboration & Storage: SharePoint
@@ -16,6 +17,7 @@ Data professional specializing in reporting infrastructure, data validation auto
 
 - Automated multi-source reporting infrastructure using Python + Power BI
 - Delivered executive KPI dashboards for government stakeholders
+- Built statistically significant regression model (p < 0.01) forecasting trends 6 months forward
 - Built CNN achieving 85% recall in medical image classification
 - Increased graduation rates by 12% through data-driven tracking system
 
@@ -31,7 +33,8 @@ Data professional specializing in reporting infrastructure, data validation auto
 - Engineered centralized KPI datasets to support trend analysis and performance measurement
 - Designed automated Power BI dashboards enabling drill-down performance analysis by program, geography, and time
 - Built ZIP code-level heatmaps analyzing program participation and poverty rates to identify geographic disparities
-- Developed multi-year time-series analysis (2023–2025) to detect expenditure trends, seasonal patterns, and support budget forecasting discussions
+- Developed multi-year time-series analysis (May 2023 – Nov 2025) to monitor eviction rate trends across Bexar County
+- Built regression-based forecasting model projecting eviction trends six months forward to support proactive planning and resource allocation
 - Translate complex analytical findings into actionable strategic insights for non-technical leadership
 
 
